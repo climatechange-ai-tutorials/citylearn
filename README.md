@@ -33,19 +33,19 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Rahman, S., Klemmer, K., & Wagner, F. (2023). Predicting Mobility Demand from Urban Features [Tutorial]. In Climate Change AI Summer School 2023. Climate Change AI. https://doi.org/10.5281/zenodo.11522391
+Nweye, K., Wu, A., Almilaify, Y., & Nagy, Z. (2024). CityLearn: Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11639022
 
 ### BibTeX
 
 ```
 @misc{nweye2024citylearn:,
   title={CityLearn: Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities},
-  author={Nweye, Kingsley and Wu, Allen and Park, Hyun and Almilaify, Yara and Nagy, Zoltan},
+  author={Nweye, Kingsley and Wu, Allen and Almilaify, Yara and Nagy, Zoltan},
   year={2024},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11522391},
-  booktitle={Climate Change AI Summer School 2024},
+  doi={https://doi.org/10.5281/zenodo.11639022},
+  booktitle={Climate Change AI Summer School},
   howpublished={\url{https://https://github.com/climatechange-ai-tutorials/citylearn}}
 }
 ```
